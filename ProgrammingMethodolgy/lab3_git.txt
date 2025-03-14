@@ -27,3 +27,6 @@ git switch 와 git checkout의 차이점
 [merge & conflicts]
 main 이나 머지할 브랜치로 이동해서 merge=> git merge 머지할브랜치이름
 conflicts 해결하고, add &commit 
+
+[git 활동 log 보기]
+git log --graph --oneline --decorate
