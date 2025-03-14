@@ -19,4 +19,6 @@ staged 된 파일들을 git 에 올리려면 => git commit -m"커밋 메시지�
 
 내가 판 브랜치들을 확인하고 싶다면=> git branch -a
 
-브랜치끼리 이동하는 법=> git switch 브랜치이름
+브랜치끼리 이동하는 법=> git switch 브랜치이름 /git checkout 브랜치이름
+git switch 와 git checkout의 차이점 
+: git switch 는 오직 브랜치 전환/ git checkout 은 브랜치 전환, 파일체크아웃, 커밋으로 돌아가기 등 범용적
