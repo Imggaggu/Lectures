@@ -105,7 +105,7 @@ git clone <repository-url>
 cd <repository-folder>
 
 # Python 실행
-python wordle_solver.py
+python team03_wordle-3.py
 
 ```
 ---
