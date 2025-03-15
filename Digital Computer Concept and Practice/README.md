@@ -108,3 +108,9 @@ cd <repository-folder>
 python wordle_solver.py
 
 ```
+---
+## 📢 팀원
+
+- 박예준
+- 이재환
+- 박서정
