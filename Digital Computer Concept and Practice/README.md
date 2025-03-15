@@ -56,7 +56,8 @@ Wordle은 다음과 같은 방식으로 단어 일치 여부를 판별합니다.
 
 각 지표에 대한 점수는 다음과 같이 계산됩니다.
 
-Si=max⁡(1−C⋅log⁡2XiXi∗,B)×100%Sᵢ = \max \left( 1 - C \cdot \log_2 \frac{Xᵢ}{Xᵢ^*}, B \right) \times 100\%Si=max(1−C⋅log2Xi∗Xi,B)×100%
+
+Sᵢ = max(1 - C * log₂ (X_i / X_i*), B) × 100%
 
 - **Xᵢ**: 우리 팀의 성능 지표
 - **Xᵢ***: 전체 팀 중 최고의 성능
