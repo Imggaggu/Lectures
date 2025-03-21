@@ -1,0 +1,6 @@
+github
+ssh 키 생성하기 :ssh-keygen 파워쉘에 입력
+
+깃허브로 협업하기
+|   contributor       |=> |   pr(pull request)   | =>|        reviwer         |
+|  (on other branch)  |   |  from branch => main |   |  review code, close pr |
