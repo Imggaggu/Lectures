@@ -1,0 +1,15 @@
+# 1. lecture 3.24 폴더 전체 무시
+lecture 3.24/
+
+# 2. 모든 .exe 파일 무시
+*.exe
+
+# (선택) macOS, VSCode, 컴파일 캐시 무시
+.DS_Store
+.vscode/
+*.out
+*.obj
+*.class
+*.log
+*.tmp
+*.swp
