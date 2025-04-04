@@ -1,4 +1,4 @@
-##문제: 해당 bank system에서 3가지 success 뽑는 법 찾기
+## 문제: 해당 bank system에서 3가지 success 뽑는 법 찾기
 
 ```cpp
 #include <iostream>
